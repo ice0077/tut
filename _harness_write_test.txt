@@ -1,1 +1,1 @@
-harness MCP write permission probe. Safe to delete.
+这条是 harness 写权限探测文件，可安全删除。
